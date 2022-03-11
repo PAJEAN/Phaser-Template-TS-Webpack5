@@ -12,7 +12,7 @@ npm install
 npm run dev
 ```
 
-# Production environement
+# Production environment
 ```
 npm run build
 ```
